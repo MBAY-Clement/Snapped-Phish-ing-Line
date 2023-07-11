@@ -78,7 +78,7 @@ Base64 ? Yeah juste decode him :)
 
 ![image](https://github.com/MBAY-Clement/Snapped-Phish-ing-Line/assets/59869618/efe780a1-5329-44b5-8049-cecc509ae096)
 
-noitcerid thgir eht ni srettel eht tup ;) 
+ (; noitcerid thgir eht ni srettel eht tup 
 
 -----------------------------------------------------------------
 
