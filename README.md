@@ -22,7 +22,7 @@ Write-ups "Snapped Phish-ing Line" Tryhackme Chall | https://tryhackme.com/room/
 
 ![image](https://github.com/MBAY-Clement/Snapped-Phish-ing-Line/assets/59869618/162a0102-3f6d-46c7-b347-83a993b429e0)
 
-You just need to see the code source of the .html phishing page and you got the URL redirection. 
+You just need to see the code source of the .html phishing file and you got the URL redirection. 
 
 ![image](https://github.com/MBAY-Clement/Snapped-Phish-ing-Line/assets/59869618/3c4aee74-90bd-4ead-a0b1-c28d0a815f39)
 
