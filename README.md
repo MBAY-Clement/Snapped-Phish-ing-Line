@@ -64,7 +64,7 @@ Use Cyberchef to defang the URL.
 
 9. The adversary used other email addresses in the obtained phishing kit. What is the email address that ends in "@gmail.com"?
 
-   - Unzip the .zip archive and get a simple grep command with -r  in this folder.
+  - Unzip the .zip archive and get a simple grep command with -r  in this folder.
 
   ![image](https://github.com/MBAY-Clement/Snapped-Phish-ing-Line/assets/59869618/1e40722e-7655-4cd5-8dd3-906860b7e041)
 
