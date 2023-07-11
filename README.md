@@ -6,7 +6,7 @@ Write-ups "Snapped Phish-ing Line" Tryhackme Chall | https://tryhackme.com/room/
 
 1. Who is the individual who received an email attachment containing a PDF?
 
-  - Just open phish-emails folder and see :)
+  - Just open phish-emails folder and reviews all emails :)
     
 ![image](https://github.com/MBAY-Clement/Snapped-Phish-ing-Line/assets/59869618/45053c56-5e0b-479a-a13e-b67e75418b89)
 
